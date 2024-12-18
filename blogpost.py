@@ -8,3 +8,8 @@ n2 = 2.5
 
 resultado = suma(n1,n2)
 print(resultado)
+
+multiplicacion = n1*n2 
+
+print(multiplicacion)
+
