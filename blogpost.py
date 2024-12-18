@@ -10,3 +10,11 @@ resultado = suma(n1,n2)
 print(resultado)
 ###
 print("Hola")
+
+division = n1/n2 
+
+if n2 == 0:
+    print("Error")
+
+resultado2 = (division)
+print(resultado2)
