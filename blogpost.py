@@ -9,7 +9,21 @@ n2 = 2.5
 resultado = suma(n1,n2)
 print(resultado)
 
+
 multiplicacion = n1*n2 
 
 print(multiplicacion)
 
+
+###
+print("Hola")
+
+division = n1/n2 
+
+if n2 == 0:
+    print("Error")
+
+resultado2 = (division)
+print(resultado2)
+
+print("ESKELER")
